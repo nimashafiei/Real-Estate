@@ -1,0 +1,32 @@
+{
+  "Aboutus": {
+    "description": "Auto imported from components/Aboutus.vue"
+  },
+  "Brands": {
+    "description": "Auto imported from components/Brands.vue"
+  },
+  "Customer": {
+    "description": "Auto imported from components/Customer.vue"
+  },
+  "FirstList": {
+    "description": "Auto imported from components/FirstList.vue"
+  },
+  "Footers": {
+    "description": "Auto imported from components/Footers.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "HowItWorks": {
+    "description": "Auto imported from components/HowItWorks.vue"
+  },
+  "Item": {
+    "description": "Auto imported from components/Item.vue"
+  },
+  "SecondList": {
+    "description": "Auto imported from components/SecondList.vue"
+  },
+  "Subscribe": {
+    "description": "Auto imported from components/Subscribe.vue"
+  }
+}
